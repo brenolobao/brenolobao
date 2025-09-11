@@ -16,7 +16,7 @@ brenolobao54@gmail.com
 
 ##  Experiência
 **Starke Brasil Dev**  
----
+--
 **Desenvolvedor Júnior** (Abr/2021 – Dez/2021)  
   - Criação de uma landing page completa usando Next.js  
   - Desenvolvimento de componentes web em React.js  
@@ -48,6 +48,7 @@ brenolobao54@gmail.com
 
 ##  Onde me encontrar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/breno-lob%C3%A3o-b81013203)  
+
 
 
 
