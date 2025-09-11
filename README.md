@@ -9,8 +9,7 @@
 ## 🚀 Sobre mim
 - 👨‍💻 Experiência com **HTML, CSS, JavaScript, React.js, Next.js, Vue.js e Bootstrap**  
 - 📚 Conhecimento básico em **Java e SQL**  
-- 🎓 Formado em **Análise e Desenvolvimento de Sistemas (UNIASSELVI)**  
-- 🔎 Buscando constantemente aprender novas tecnologias e evoluir na área de desenvolvimento web  
+- 🎓 Formado em **Análise e Desenvolvimento de Sistemas (UNIASSELVI)**    
 - 🌱 Objetivo: crescer como **Desenvolvedor Front-End** e contribuir em projetos reais
 
 ---
@@ -48,6 +47,7 @@
 
 ## 🌎 Onde me encontrar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/breno-lob%C3%A3o-b81013203)  
+
 
 
 
