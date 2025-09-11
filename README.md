@@ -48,7 +48,3 @@
 
 ## 🌎 Onde me encontrar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/breno-lob%C3%A3o-b81013203)  
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/brenolobao)  
-
----
-✨ Sempre em busca de novos desafios e aprendizados no mundo da tecnologia!
