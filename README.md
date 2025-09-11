@@ -1,6 +1,6 @@
 #  Olá, eu sou o Breno Lobão!
 
-🎯 Desenvolvedor Front-End Júnior.
+🎯 Desenvolvedor Front-End Júnior | 
 📍 Aracati - CE, Brasil  
 📧 brenolobao54@gmail.com  
 
@@ -48,6 +48,7 @@
 
 ## 🌎 Onde me encontrar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/breno-lob%C3%A3o-b81013203)  
+
 
 
 
