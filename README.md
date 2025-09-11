@@ -41,13 +41,13 @@ brenolobao54@gmail.com
 ---
 
 ##  Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brenolobao&show_icons=true&theme=dracula)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brenolobao&layout=compact&theme=dracula)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brenolobao&show_icons=true&theme=dracula)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brenolobao&layout=compact&theme=dracula)  
 
 ---
 
 ##  Onde me encontrar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/breno-lob%C3%A3o-b81013203)  
+
 
 
 
